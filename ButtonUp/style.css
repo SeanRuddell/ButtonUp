@@ -1,0 +1,39 @@
+#search{
+    border-radius: 15px;
+    color:rgb(25, 180, 154);
+    border: 2px solid mediumaquamarine;
+    height: 23px;
+    width: 135px;
+}
+::placeholder{
+    color: rgb(25, 180, 154);
+    text-align: center;
+    font-weight: 750;
+    font-family: sans-serif;
+}
+.b{
+    color: whitesmoke;
+    font-family: fantasy;
+    font-weight: lighter;
+    font-size: 33px;
+    background-color: rgb(13, 224, 189);
+    border-radius: 50pt;
+    height: 40px;
+    width: 40px;
+    margin-top: 20pt;
+    text-align: center;
+}
+.c{
+    background-color: rgb(19, 104, 184);
+    color: whitesmoke;
+    text-align: center;
+    font-family: serif;
+    font-size: 22px;
+    box-shadow: 10px 5px 5px black;
+    border: 2px solid black;
+    width: 250px;
+    height: 32px;
+    margin-top: 20pt;
+    padding-bottom: -10px;
+    padding-top: 5px;
+}
